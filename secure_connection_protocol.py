@@ -1,4 +1,4 @@
-from nintendo.nex import rmc, secure, common
+from nex_protocols import rmc, secure, common
 from pymongo.collection import Collection
 from anyio import Lock
 import bson

@@ -1,4 +1,4 @@
-from nintendo.nex import rmc, common, matchmaking, streams, notification
+from nex_protocols import rmc, common, matchmaking, streams, notification
 from pymongo.collection import Collection
 from typing import Callable
 

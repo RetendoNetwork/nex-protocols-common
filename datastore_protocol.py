@@ -1,4 +1,4 @@
-from nintendo.nex import datastore, rmc, common
+from nex_protocols import datastore, rmc, common
 from pymongo.collection import Collection
 from typing import Callable
 import datetime

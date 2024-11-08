@@ -1,4 +1,4 @@
-from nintendo.nex import rmc, matchmaking, common, matchmaking_eagle, matchmaking_mk8d
+from nex_protocols import rmc, matchmaking, common, matchmaking_eagle, matchmaking_mk8d
 import bson
 import os
 from pymongo.collection import Collection

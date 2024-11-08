@@ -1,4 +1,4 @@
-from nintendo.nex import rmc, ranking, common
+from nex_protocols import rmc, ranking, common
 from pymongo.collection import Collection
 import datetime
 import bson

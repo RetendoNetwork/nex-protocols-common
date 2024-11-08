@@ -1,4 +1,4 @@
-from nintendo.nex import rmc, nattraversal, common, streams
+from nex_protocols import rmc, nattraversal, common, streams
 from pymongo.collection import Collection
 
 from .secure_connection_protocol import CommonSecureConnectionServer

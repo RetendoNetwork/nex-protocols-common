@@ -1,4 +1,4 @@
-from nintendo.nex import rmc, matchmaking, common
+from nex_protocols import rmc, matchmaking, common
 from pymongo.collection import Collection
 
 from . import matchmaking_utils

@@ -1,4 +1,4 @@
-from nintendo.nex import rmc, kerberos, authentication, common
+from nex_protocols import rmc, kerberos, authentication, common
 import secrets
 import datetime
 from typing import Callable
