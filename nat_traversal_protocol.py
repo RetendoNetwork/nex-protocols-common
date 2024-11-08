@@ -51,3 +51,6 @@ class CommonNATTraversalServer(nattraversal.NATTraversalServer):
 
     async def report_nat_traversal_result(self, *args):
         pass
+
+    async def report_nat_traversal_result_detail(self, *args):
+        pass
